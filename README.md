@@ -1,5 +1,5 @@
 # NETFLIX
-
+##You must firstly Sigup to give acess to show all movies
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
